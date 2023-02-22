@@ -1,6 +1,6 @@
 ### Continous time HMM with R using Depmixs4. 
-# library(depmixS4)
-# library(pracma)
+library(depmixS4)
+library(pracma)
 Data_prepare<-function(Data,Label,Train_Ratio,N,T)
 {
   Data_Train<-as.matrix(Data[1:(Train_Ratio*N),])
