@@ -43,7 +43,7 @@ For more information, please refer to my Youtube videos:
 
 https://www.youtube.com/watch?v=1b-sd7gulFk&ab_channel=AIandMLFundamentals
 
-
+https://www.youtube.com/watch?v=ieU8JFLRw2k&ab_channel=AIandMLFundamentals
 
 ---
 
